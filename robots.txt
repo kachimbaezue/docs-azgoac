@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://docs-1lhrwr.pagoimpuetosvehiculo.top/sitemap.xml
